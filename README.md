@@ -94,3 +94,4 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 As you start to analyze the data, you begin to ask more questions upon discovering conclusions as you go on. We revamped some of the questions and what we were looking for based upon the strengths and limitations of the data.
 
 Even though a data has limitations that can be a telling truth when making conclusions. We were limited in some of the things we wanted to know about the data – our group kept going back to the idea of we really wish that we had the sales information of the shoe data that we were looking at. Having that information we would have been able to make several more conclusions beyond what we had listed.
+
